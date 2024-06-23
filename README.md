@@ -2,8 +2,6 @@
 
 [![Repo Size](https://img.shields.io/github/repo-size/rotgergabriel/DevsCrafts)](https://github.com/rotgergabriel/DevsCrafts)
 [![Last Commit](https://img.shields.io/github/last-commit/rotgergabriel/DevsCrafts)](https://github.com/rotgergabriel/DevsCrafts)
-[![License](https://img.shields.io/github/license/rotgergabriel/DevsCrafts)](https://github.com/rotgergabriel/DevsCrafts/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/rotgergabriel/DevsCrafts)](https://github.com/rotgergabriel/DevsCrafts/issues)
 
 Bienvenido a **DevsCrafts**, tu destino para encontrar inspiradores diseños de tarjetas para eventos. Este proyecto está desarrollado utilizando React con Vite como bundler. Es una plataforma informativa donde los usuarios pueden explorar ejemplos de tarjetas y solicitar servicios personalizados para eventos.
 
