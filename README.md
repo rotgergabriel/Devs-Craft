@@ -24,6 +24,13 @@ Bienvenido a **DevsCrafts**, tu destino para encontrar inspiradores diseños de 
 - **React**: Biblioteca de JavaScript para construir interfaces de usuario.
 - **Vite**: Bundler y herramienta de desarrollo rápido para aplicaciones web modernas.
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+
 ## Estructura del Proyecto 📁
 
 La estructura del proyecto podría contener modificaciones a lo largo del desarrollo:
