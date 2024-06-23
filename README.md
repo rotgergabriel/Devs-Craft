@@ -5,7 +5,7 @@
 
 Bienvenido a **DevsCrafts**, tu destino para encontrar inspiradores diseños de tarjetas para eventos. Este proyecto está desarrollado utilizando React con Vite como bundler. Es una plataforma informativa donde los usuarios pueden explorar ejemplos de tarjetas y solicitar servicios personalizados para eventos.
 
-![Banner](https://via.placeholder.com/800x200?text=Bienvenidos+a+DevsCrafts)
+![Banner_resized](https://github.com/rotgergabriel/DevsCrafts/assets/70408322/5c4dc4fe-20ae-4cce-a253-dcade1fa8f60)
 
 ## Descripción del Proyecto 📖
 
@@ -132,4 +132,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [info@DevsCr
 
 ¡Gracias por visitar **DevsCrafts** y esperamos que disfrutes de nuestra plataforma tanto como nosotros disfrutamos creándola!
 
-![Logo](https://via.placeholder.com/100x100?text=Logo)
+![DevsCrafts_200](https://github.com/rotgergabriel/DevsCrafts/assets/70408322/9d5f500d-98b7-45ef-a0ff-c78604f867bc)
