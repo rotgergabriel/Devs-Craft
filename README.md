@@ -1,15 +1,15 @@
-# 🎉 DevsCrafts 🎉
+# 🎉 Dev'sCraft 🎉
 
-[![Repo Size](https://img.shields.io/github/repo-size/rotgergabriel/DevsCrafts)](https://github.com/rotgergabriel/DevsCrafts)
-[![Last Commit](https://img.shields.io/github/last-commit/rotgergabriel/DevsCrafts)](https://github.com/rotgergabriel/DevsCrafts)
+[![Repo Size](https://img.shields.io/github/repo-size/rotgergabriel/Dev'sCraft)](https://github.com/rotgergabriel/Dev'sCraft)
+[![Last Commit](https://img.shields.io/github/last-commit/rotgergabriel/Dev'sCraft)](https://github.com/rotgergabriel/Dev'sCraft)
 
-Bienvenido a **DevsCrafts**, tu destino para encontrar inspiradores diseños de tarjetas para eventos. Este proyecto está desarrollado utilizando React con Vite como bundler. Es una plataforma informativa donde los usuarios pueden explorar ejemplos de tarjetas y solicitar servicios personalizados para eventos.
+Bienvenido a **Dev'sCraft**, tu destino para encontrar inspiradores diseños de tarjetas para eventos. Este proyecto está desarrollado utilizando React con Vite como bundler. Es una plataforma informativa donde los usuarios pueden explorar ejemplos de tarjetas y solicitar servicios personalizados para eventos.
 
-![Banner_resized](https://github.com/rotgergabriel/DevsCrafts/assets/70408322/5c4dc4fe-20ae-4cce-a253-dcade1fa8f60)
+![Banner_resized](https://github.com/rotgergabriel/Dev'sCraft/assets/70408322/5c4dc4fe-20ae-4cce-a253-dcade1fa8f60)
 
 ## Descripción del Proyecto 📖
 
-**DevsCrafts** es una aplicación web que muestra una galería de tarjetas diseñadas profesionalmente para diversos eventos. Los usuarios pueden explorar estos ejemplos y solicitar la creación de un sitio web personalizado.
+**Dev'sCraft** es una aplicación web que muestra una galería de tarjetas diseñadas profesionalmente para diversos eventos. Los usuarios pueden explorar estos ejemplos y solicitar la creación de un sitio web personalizado.
 
 ## Características 🌟
 
@@ -34,7 +34,7 @@ Bienvenido a **DevsCrafts**, tu destino para encontrar inspiradores diseños de 
 La estructura del proyecto podría contener modificaciones a lo largo del desarrollo:
 
 ```plaintext
-DevsCrafts/
+Dev'sCraft/
 ├── public/
 │   └── index.html
 ├── src/
@@ -76,8 +76,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone git@github.com:rotgergabriel/DevsCrafts.git
-   cd DevsCrafts
+   git clone git@github.com:rotgergabriel/Dev'sCraft.git
+   cd Dev'sCraft
    ```
 
 2. **Instalar dependencias**:
@@ -126,10 +126,10 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Contacto 📧
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [info@DevsCrafts.com](mailto:info@DevsCrafts.com).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [info@Dev'sCraft.com](mailto:info@Dev'sCraft.com).
 
 
 
-¡Gracias por visitar **DevsCrafts** y esperamos que disfrutes de nuestra plataforma tanto como nosotros disfrutamos creándola!
+¡Gracias por visitar **Dev'sCraft** y esperamos que disfrutes de nuestra plataforma tanto como nosotros disfrutamos creándola!
 
-![DevsCrafts_200](https://github.com/rotgergabriel/DevsCrafts/assets/70408322/9d5f500d-98b7-45ef-a0ff-c78604f867bc)
+![Dev'sCraft_200](https://github.com/rotgergabriel/Dev'sCraft/assets/70408322/9d5f500d-98b7-45ef-a0ff-c78604f867bc)
