@@ -3,9 +3,9 @@
 [![Repo Size](https://img.shields.io/github/repo-size/rotgergabriel/Dev'sCraft)](https://github.com/rotgergabriel/Dev'sCraft)
 [![Last Commit](https://img.shields.io/github/last-commit/rotgergabriel/Dev'sCraft)](https://github.com/rotgergabriel/Dev'sCraft)
 
-Bienvenido a **Dev'sCraft**, tu destino para encontrar inspiradores diseños de tarjetas para eventos. Este proyecto está desarrollado utilizando React con Vite como bundler. Es una plataforma informativa donde los usuarios pueden explorar ejemplos de tarjetas y solicitar servicios personalizados para eventos.
+![banner](https://github.com/user-attachments/assets/2409032d-71ce-4984-b7f4-df529f326b71)
 
-![Banner_resized](https://github.com/rotgergabriel/Dev'sCraft/assets/70408322/5c4dc4fe-20ae-4cce-a253-dcade1fa8f60)
+Bienvenido a **Dev'sCraft**, tu destino para encontrar inspiradores diseños de tarjetas para eventos. Este proyecto está desarrollado utilizando React con Vite como bundler. Es una plataforma informativa donde los usuarios pueden explorar ejemplos de tarjetas y solicitar servicios personalizados para eventos.
 
 ## Descripción del Proyecto 📖
 
@@ -131,5 +131,3 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [info@Dev'sC
 
 
 ¡Gracias por visitar **Dev'sCraft** y esperamos que disfrutes de nuestra plataforma tanto como nosotros disfrutamos creándola!
-
-![Dev'sCraft_200](https://github.com/rotgergabriel/Dev'sCraft/assets/70408322/9d5f500d-98b7-45ef-a0ff-c78604f867bc)
