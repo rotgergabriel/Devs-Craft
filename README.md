@@ -126,7 +126,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Contacto 📧
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [info@Dev'sCraft.com](mailto:info@Dev'sCraft.com).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [devs.craft.info@gmail.com](mailto:devs.craft.info@gmail.com).
 
 
 
