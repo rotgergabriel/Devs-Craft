@@ -35,39 +35,26 @@ La estructura del proyecto podría contener modificaciones a lo largo del desarr
 
 ```plaintext
 Dev'sCraft/
-├── public/
-│   └── index.html
-├── src/
+│   │
+│   │
 │   ├── assets/
-│   │   ├── images/
-│   │   └── styles/
-│   │       └── global.css
-│   ├── components/
-│   │   ├── common/
-│   │   │   ├── Button.js
-│   │   │   ├── Card.js
-│   │   │   └── Header.js
-│   │   ├── layout/
-│   │   │   ├── Navbar.js
-│   │   │   ├── Footer.js
-│   │   │   └── Sidebar.js
-│   ├── data/
-│   │   └── tarjetas.json
-│   ├── hooks/
-│   │   └── useFetch.js
-│   ├── pages/
-│   │   ├── HomePage.js
-│   │   ├── GalleryPage.js
-│   │   ├── ContactPage.js
-│   │   └── BlogPage.js
-│   ├── services/
-│   │   └── tarjetaService.js
-│   ├── utils/
-│   │   └── helpers.js
-│   ├── App.jsx
-│   └── main.jsx
-├── README.md
-└── package.json
+│   │   ├── css/
+│   │   │   ├── views/
+│   │   │   │   └── contacts.css
+│   │   │   ├── bootstrap-grid.css
+│   │   │   └── style.css
+│   │   ├── fonts/
+│   │   ├── img/
+│   │   ├── js/
+│   │   └── libs/
+│   └── pages/
+│       ├── contacts.html
+│       ├── services.html
+│       ├── 404.html
+│       └── 503.html
+├── index.html
+├── LICENSE
+└── README.md
 ```
 
 ## Instalación y Configuración 🚀

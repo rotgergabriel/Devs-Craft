@@ -1,0 +1,109 @@
+                    body {
+                        font-family: 'Source Sans Pro', sans-serif;
+                        margin: 0;
+                        padding: 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        height: 100vh;
+                        background-color: #f7f7f7;
+                    }
+
+                    .contact-section {
+                        display: flex;
+                        text-align: center;
+                        width: 100%;
+                        height: 100vh;
+                        max-width: 100%;
+                        max-height: 100vh;
+                    }
+
+                    .contact-image {
+                        flex: 1;
+                        background-image: url('/assets/img/devsCraft/palabra-interfaz-pagina-web-atencion-al-cliente.jpg');
+                        background-size: cover;
+                        background-position: center;
+                    }
+
+                    .contact-content {
+                        flex: 1;
+                        padding: 40px;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        background-color: #ffffff;
+                        color: rgb(41, 38, 38);
+                    }
+
+                    .contact-content h1 {
+                        font-family: 'Montserrat', sans-serif;
+                        font-size: 2em;
+                        color: #FF0099;
+                        margin-bottom: 20px;
+                    }
+                    .contact-content h6 span {
+                        font-family: 'Montserrat', sans-serif;
+                        color: #FF0099;
+                    }
+
+                    .contact-content h1 {
+                        font-family: 'Montserrat', sans-serif;
+                        font-size: 2em;
+                        margin-bottom: 20px;
+                    }
+
+                    .contact-content p {
+                        font-size: 1.2em;
+                        margin-bottom: 40px;
+                    }
+
+                    /* Responsive Design */
+                    @media (max-width: 768px) {
+                        .contact-section {
+                            flex-direction: column;
+                        }
+
+                        .contact-image {
+                            height: 50vh;
+                        }
+
+                        .contact-content {
+                            height: 50vh;
+                            padding: 20px;
+                        }
+                    }
+
+                    @media (max-width: 480px) {
+                        .contact-content h1 {
+                            font-size: 1.2em;
+                            margin-top: 20px;
+                        }
+
+                        .contact-content h6 {
+                            font-size: 0.8em;
+                        }
+
+                        .contact-content p {
+                            font-size: 1em;
+                        }
+
+                        .contact-content button {
+                            padding: 10px 20px;
+                            font-size: 0.9em;
+                        }
+                    }
+
+                    @media (max-width: 320px) {
+                        .contact-content h1 {
+                            font-size: 1.2em;
+                            margin-top: 20px;
+                        }
+
+                        .contact-content h6 {
+                            font-size: 0.8em;
+                        }
+
+                        .contact-content p {
+                            font-size: 0.9em;
+                        }
+                    }
