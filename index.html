@@ -34,11 +34,11 @@
 	<main class="main">
 		<div class="main-inner">
 			<!-- Begin mobile main menu -->
-			<nav class="mmm">
+			<nav class="mmm menu--navbar" id="menu--navbar">
 				<div class="mmm-content">
-					<ul class="mmm-list">
+					<ul class="mmm-list header__links">
 						<li>
-							<a href="index.html">Inicio</a>
+							<a href="/index.html">Inicio</a>
 						</li>
 						<li>
 							<a href="/pages/about-us.html">Quiénes Somos</a>
@@ -66,7 +66,9 @@
 						</li>
 					</ul>
 				</div>
-			</nav><!-- End mobile main menu -->
+			</nav>
+			<!-- End mobile main menu -->
+
 			<div class="bff">
 				<div class="container">
 					<div class="row">
@@ -80,8 +82,9 @@
 					</div>
 				</div>
 			</div>
+
 			<header class="header header-minimal">
-				<nav class="header-fixed">
+				<nav class="header-fixed menu--navbar" id="menu--navbar">
 					<div class="container">
 						<div class="row flex-nowrap align-items-center justify-content-between">
 							<div class="col-auto header-fixed-col logo-wrapper">
@@ -95,9 +98,9 @@
 									<div class="col header-fixed-col d-none d-xl-block col-static">
 										<!-- Begin main menu -->
 										<nav class="main-mnu">
-											<ul class="main-mnu-list">
+											<ul class="main-mnu-list header__links">
 												<li>
-													<a href="#" data-title="Inicio">
+													<a href="/index.html" data-title="Inicio">
 														<span>Inicio</span>
 													</a>
 												</li>
@@ -142,10 +145,12 @@
 													</a>
 												</li>
 											</ul>
-										</nav><!-- End main menu -->
+										</nav>
+										<!-- End main menu -->
 									</div>
 								</div>
 							</div>
+
 							<div class="col-auto d-block d-xl-none header-fixed-col">
 								<div class="main-mnu-btn">
 									<span class="bar bar-1"></span>
@@ -1025,6 +1030,7 @@
 	<script src="assets/libs/pristine/pristine.min.js"></script>
 	<script src="assets/js/custom.js"></script>
 	<script src="assets/js/index.js"></script>
+	<script src="assets/js/scroll-behavior-controller.js"></script>
 </body>
 
 </html>
