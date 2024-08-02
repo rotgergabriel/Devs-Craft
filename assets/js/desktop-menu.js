@@ -1,5 +1,5 @@
 // Obtener la altura del navbar
-const navbar = document.getElementById('menu--navbar');
+const navbar = document.getElementById('desktop--navbar');
 const navbarHeight = navbar ? navbar.offsetHeight : 0; // Verificar si el navbar existe
 
 // Obtener los elementos con la clase 'header__links' desde los <ul>
